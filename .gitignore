@@ -1,0 +1,47 @@
+# Compiled Java files
+*.class
+
+# Java build directories
+build/
+dist/
+out/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Database backups
+*.sql.bak
